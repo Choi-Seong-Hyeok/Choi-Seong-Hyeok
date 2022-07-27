@@ -1,7 +1,7 @@
 <div>
     <a href="https://instagram.com/s_201802">
         <img 
-            src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/s_201802/"
+            src="http://img.shields.io/badge/-seonghyeok-black?style=flat&logo=Instagram&link=https://instagram.com/s_201802/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
 </div>
