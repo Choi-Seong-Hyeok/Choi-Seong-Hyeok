@@ -4,7 +4,7 @@
             src="http://img.shields.io/badge/-seonghyeok-black?style=flat&logo=Instagram&link=https://instagram.com/s_201802/"
             style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href="mailto:cinemay33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cinemay33@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=EA4335"/></a>
+    <a href="mailto:cinemay33@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cinemay33@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
     
     
 </div>
