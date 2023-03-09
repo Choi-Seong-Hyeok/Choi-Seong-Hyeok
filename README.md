@@ -6,7 +6,6 @@
 
 ## SeongHyeok : Backend Developer
 
-꾸준한 성장을 원하는 백엔드 개발자 지망생입니다.
 
 
 
