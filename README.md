@@ -9,6 +9,3 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Seong-Hyeok&show_icons=true&theme=yeblu)
-
-
